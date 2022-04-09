@@ -16,7 +16,7 @@
     "core-js": "^3.6.5",
     "d3-scale-chromatic": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "mongoose": "^5.11.8",
     "nuxt": "^2.14.6",
     "puppeteer": "^5.5.0",
